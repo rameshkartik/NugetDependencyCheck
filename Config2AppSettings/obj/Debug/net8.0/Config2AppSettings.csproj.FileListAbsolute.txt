@@ -1,0 +1,17 @@
+C:\SourceCode\Config2AppSettings\bin\Debug\net8.0\Config2AppSettings.exe
+C:\SourceCode\Config2AppSettings\bin\Debug\net8.0\Config2AppSettings.deps.json
+C:\SourceCode\Config2AppSettings\bin\Debug\net8.0\Config2AppSettings.runtimeconfig.json
+C:\SourceCode\Config2AppSettings\bin\Debug\net8.0\Config2AppSettings.dll
+C:\SourceCode\Config2AppSettings\bin\Debug\net8.0\Config2AppSettings.pdb
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.AssemblyInfoInputs.cache
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.AssemblyInfo.cs
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.csproj.CoreCompileInputs.cache
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.dll
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\refint\Config2AppSettings.dll
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.pdb
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.genruntimeconfig.cache
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\ref\Config2AppSettings.dll
+C:\SourceCode\Config2AppSettings\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2AppSettings.csproj.AssemblyReference.cache
+C:\SourceCode\Config2AppSettings\obj\Debug\net8.0\Config2A.999A92C5.Up2Date
